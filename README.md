@@ -1,0 +1,2 @@
+# HelloWorldPlaifar
+repository ในการเรียน GitHub
